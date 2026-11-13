@@ -1,4 +1,5 @@
-id_venta	producto	cantidad	precio
+id_venta	producto	cantidad	
+          precio
 1	Laptop	2	650
 2	Mouse	5	12
 3	Teclado	3	25
